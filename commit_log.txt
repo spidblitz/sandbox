@@ -6,3 +6,4 @@
 2025-12-10 13:24:48 +08 - fix: fix build error
 2025-12-10 18:28:55 +08 - feat: add responsive design
 2025-12-10 19:06:55 +08 - feat: add API endpoints
+2025-12-11 06:50:10 +08 - fix: fix broken link
