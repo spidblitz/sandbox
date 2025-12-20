@@ -24,3 +24,4 @@
 // 2025-12-19 22:24:27 +08 - fix: fix memory leak
 // 2025-12-20 14:34:39 +08 - chore: add logging
 // 2025-12-20 15:52:39 +08 - fix: fix UI glitch
+// 2025-12-21 01:01:55 +08 - fix: fix performance issue code style
