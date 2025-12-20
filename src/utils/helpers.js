@@ -23,3 +23,4 @@
 // 2025-12-12 17:28:12 +08 - feat: add API documentation
 // 2025-12-19 22:24:27 +08 - fix: fix memory leak
 // 2025-12-20 14:34:39 +08 - chore: add logging
+// 2025-12-20 15:52:39 +08 - fix: fix UI glitch
