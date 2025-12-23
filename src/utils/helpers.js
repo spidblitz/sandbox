@@ -33,3 +33,4 @@
 // 2025-12-23 18:27:33 +08 - feat: add API documentation for better performance
 // 2025-12-23 20:06:50 +08 - feat: add error handling
 // 2025-12-24 03:34:38 +08 - fix: fix build error
+// 2025-12-24 07:06:01 +08 - feat: add error handling
