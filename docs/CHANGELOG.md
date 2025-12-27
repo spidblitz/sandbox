@@ -20,3 +20,4 @@
 # 2025-12-23 01:21:26 +08 - fix: fix UI glitch
 # 2025-12-26 11:27:22 +08 - feat: add responsive design
 # 2025-12-26 12:25:22 +08 - fix: fix race condition code style
+# 2025-12-27 18:28:39 +08 - fix: fix performance issue
