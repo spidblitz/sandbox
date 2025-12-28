@@ -21,3 +21,4 @@
 # 2025-12-26 11:27:22 +08 - feat: add responsive design
 # 2025-12-26 12:25:22 +08 - fix: fix race condition code style
 # 2025-12-27 18:28:39 +08 - fix: fix performance issue
+# 2025-12-28 18:23:56 +08 - feat: add user authentication
