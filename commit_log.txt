@@ -42,3 +42,4 @@
 2025-12-26 23:40:24 +08 - feat: add UI components
 2025-12-27 00:28:16 +08 - feat: add form validation for better performance
 2025-12-27 18:23:39 +08 - fix: fix broken link
+2025-12-28 23:58:34 +08 - fix: fix build error
