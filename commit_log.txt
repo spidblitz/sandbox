@@ -45,3 +45,4 @@
 2025-12-28 23:58:34 +08 - fix: fix build error
 2025-12-29 13:31:49 +08 - chore: improve error messages
 2025-12-29 14:56:03 +08 - fix: fix race condition
+2025-12-29 18:27:27 +08 - fix: fix typo
