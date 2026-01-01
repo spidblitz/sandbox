@@ -48,3 +48,4 @@
 // 2025-12-30 19:49:16 +08 - feat: add API documentation
 // 2025-12-31 13:07:31 +08 - fix: fix broken link to fix edge case
 // 2025-12-31 19:21:32 +08 - feat: add database schema naming convention
+// 2026-01-01 12:29:51 +08 - fix: fix typo to improve UX
