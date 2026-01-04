@@ -61,3 +61,4 @@
 2026-01-03 16:44:44 +08 - feat: add database schema
 2026-01-04 01:28:04 +08 - fix: fix test failure
 2026-01-04 12:11:52 +08 - feat: add caching layer
+2026-01-04 12:46:52 +08 - fix: fix memory leak to improve UX
