@@ -58,3 +58,4 @@
 // 2026-01-04 01:20:04 +08 - fix: fix typo
 // 2026-01-04 12:23:52 +08 - fix: fix typo
 // 2026-01-04 14:36:18 +08 - fix: fix typo
+// 2026-01-04 21:11:54 +08 - feat: add API documentation
