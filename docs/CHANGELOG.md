@@ -49,3 +49,4 @@
 # 2026-01-06 19:16:51 +08 - fix: fix typo
 # 2026-01-06 20:07:51 +08 - chore: optimize
 # 2026-01-07 20:52:56 +08 - feat: add test coverage code style
+# 2026-01-08 00:57:12 +08 - fix: fix race condition
