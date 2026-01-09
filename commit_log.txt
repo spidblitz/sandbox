@@ -79,3 +79,4 @@
 2026-01-09 16:43:23 +08 - fix: fix bug code style
 2026-01-09 17:55:23 +08 - fix: fix typo
 2026-01-09 20:52:24 +08 - chore: update docs
+2026-01-09 21:48:24 +08 - feat: add form validation
