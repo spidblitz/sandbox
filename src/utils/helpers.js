@@ -77,3 +77,4 @@
 // 2026-01-14 01:29:23 +08 - feat: add error handling to improve UX
 // 2026-01-14 03:23:05 +08 - fix: fix test failure to improve UX
 // 2026-01-14 21:31:22 +08 - feat: add API documentation
+// 2026-01-15 05:47:32 +08 - fix: fix UI glitch to fix edge case
