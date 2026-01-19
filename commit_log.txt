@@ -104,3 +104,4 @@
 2026-01-18 20:46:25 +08 - fix: fix broken link naming convention
 2026-01-19 06:53:53 +08 - feat: add form validation
 2026-01-19 16:37:48 +08 - feat: add database schema
+2026-01-19 20:30:29 +08 - fix: fix broken link
