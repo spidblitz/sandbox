@@ -69,3 +69,4 @@
 # 2026-01-18 18:58:31 +08 - chore: improve error messages
 # 2026-01-18 20:17:02 +08 - fix: fix bug
 # 2026-01-20 21:52:08 +08 - feat: add API endpoints
+# 2026-01-22 01:59:07 +08 - feat: add database schema
