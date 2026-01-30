@@ -135,3 +135,4 @@
 2026-01-29 19:34:00 +08 - feat: add form validation
 2026-01-29 23:53:01 +08 - fix: fix performance issue code style
 2026-01-30 00:48:42 +08 - fix: fix broken link to improve UX
+2026-01-30 20:09:23 +08 - feat: add responsive design
