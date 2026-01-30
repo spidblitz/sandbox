@@ -89,3 +89,4 @@
 # 2026-01-28 07:52:05 +08 - fix: fix UI glitch
 # 2026-01-29 21:18:48 +08 - feat: add user authentication
 # 2026-01-30 19:31:23 +08 - fix: fix UI glitch
+# 2026-01-30 20:36:23 +08 - feat: add form validation naming convention
