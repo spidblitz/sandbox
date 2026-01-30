@@ -90,3 +90,4 @@
 # 2026-01-29 21:18:48 +08 - feat: add user authentication
 # 2026-01-30 19:31:23 +08 - fix: fix UI glitch
 # 2026-01-30 20:36:23 +08 - feat: add form validation naming convention
+# 2026-01-30 22:37:54 +08 - chore: optimize to fix edge case
