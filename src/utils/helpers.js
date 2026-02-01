@@ -123,3 +123,4 @@
 // 2026-01-30 18:00:55 +08 - chore: refactor
 // 2026-01-30 23:15:54 +08 - feat: add API endpoints
 // 2026-01-31 18:28:54 +08 - fix: fix build error
+// 2026-02-01 19:24:16 +08 - fix: fix security vulnerability naming convention
