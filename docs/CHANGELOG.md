@@ -97,3 +97,4 @@
 # 2026-02-02 19:13:51 +08 - fix: fix performance issue
 # 2026-02-03 12:49:08 +08 - chore: improve tests
 # 2026-02-03 19:36:48 +08 - chore: improve error messages
+# 2026-02-03 21:08:10 +08 - chore: add logging
