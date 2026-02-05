@@ -127,3 +127,4 @@
 // 2026-02-02 10:32:31 +08 - fix: fix build error
 // 2026-02-03 13:01:08 +08 - chore: update docs
 // 2026-02-03 18:44:10 +08 - fix: fix typo
+// 2026-02-05 23:40:57 +08 - fix: fix build error naming convention
