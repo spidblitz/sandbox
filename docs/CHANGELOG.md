@@ -110,3 +110,4 @@
 # 2026-02-06 19:09:56 +08 - feat: add form validation
 # 2026-02-06 21:07:10 +08 - fix: fix broken link
 # 2026-02-06 23:42:50 +08 - chore: add logging to fix edge case
+# 2026-02-07 00:51:36 +08 - chore: improve error messages
