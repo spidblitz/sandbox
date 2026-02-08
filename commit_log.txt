@@ -158,3 +158,4 @@
 2026-02-06 21:24:10 +08 - chore: refactor
 2026-02-07 02:35:13 +08 - feat: add database schema to improve UX
 2026-02-07 20:56:09 +08 - fix: fix UI glitch to improve UX
+2026-02-08 17:53:50 +08 - chore: update docs for better performance
